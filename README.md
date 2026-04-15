@@ -1,6 +1,6 @@
 # UK-Road-Accident-
 
-The UK Road Accident Dashboard* is an interactive data visualization project designed to analyze road accidents, casualties, and contributing factors across different dimensions such as time, vehicle type, road type, and districts.
+The UK Road Accident Dashboard is an interactive data visualization project designed to analyze road accidents, casualties, and contributing factors across different dimensions such as time, vehicle type, road type, and districts.
 
 This dashboard helps uncover patterns and insights that can support road safety improvements and data-driven decision-making.
 
